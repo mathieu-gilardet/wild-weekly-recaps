@@ -1,6 +1,6 @@
 # Récap S1
 
-par: Valentin, Sylène, Yoan, Babi
+par: Valentin, Sylène, Yoan, Xabi
 
 
 ## Valentin
@@ -12,7 +12,7 @@ par: Valentin, Sylène, Yoan, Babi
 - cherche a s’améliorer sur les flexbox
 ​
 
-## Sylene
+## Sylène
 
 - a révisé ses classiques: unix github; ce qui lui permet de s’améliorer et d’apprendre
 - cours responsive du jeudi matin utile mais déjà vu, même si le thème des flexbox a toujours besoin d’être creusé (pour tout le monde)
@@ -59,7 +59,7 @@ par: Valentin, Sylène, Yoan, Babi
     - chmod: permet de changer les droits sur une entitée
         - u = user (owner)
         - g = group
-​        - o = others
+        - o = others
         - a = all
     - chown: pour changer le propriétaire
     - SSH: ID du pc. Il y en a deux, une propre au système en local, une utilisable pour se relier sur un serveur distant
