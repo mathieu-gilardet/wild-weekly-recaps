@@ -1,5 +1,5 @@
 ## Recap Semaine 2 - Groupe Java
-Sylène, Valentin et Jean-Loup
+*Sylène, Valentin et Jean-Loup*
 
 ## Langage Java - Initiation
 *Langage typé et orienté objet*
@@ -10,7 +10,6 @@ Sylène, Valentin et Jean-Loup
 * Boucles ( while, for, for each )
 
 * P.O.O.
-
     Encapsulation, instanciation, références, accesseurs et mutateurs
     Propriétés
     Méthodes
