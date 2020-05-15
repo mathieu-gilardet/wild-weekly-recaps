@@ -10,6 +10,7 @@ Sylène, Valentin et Jean-Loup
 * Boucles ( while, for, for each )
 
 * P.O.O.
+
     Encapsulation, instanciation, références, accesseurs et mutateurs
     Propriétés
     Méthodes
@@ -17,5 +18,5 @@ Sylène, Valentin et Jean-Loup
 
 
 ## Quetes 
-*principalement java
+* principalement java
 
