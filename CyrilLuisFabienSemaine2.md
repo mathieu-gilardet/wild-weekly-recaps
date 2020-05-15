@@ -37,7 +37,7 @@ Tableaux:
 - parcourir le tableau avec des boucles 
 - tableaux associatifs et indexés
 - tableaux multidimensionnels
-`
+
 Fonctions: 
 - fonctions natives (count, strlen, explode, var_dump, ...)
 - notion de fonctions pures et impures
@@ -45,7 +45,8 @@ Fonctions:
 - typage des paramètres et du retour 
 - void est un type utilisé quand il n’y a aucun retour
 - ?string = type de retour qui envoie une chaîne de caractères ou NULL
-- Manipulation de fichiers
+
+Manipulation de fichiers
 - include: : si le fichier n’existe pas, retourne un warning. L’exécution se poursuit
 - require: si le fichier n’existe pas, retourne une erreur. L’exécution s’arrête
  
