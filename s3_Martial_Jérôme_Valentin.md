@@ -1,7 +1,7 @@
-# Récapitulatif semaine 3 :#
+# Récapitulatif semaine 3 :
 
-## Base de données : Stockage des données, relations logiques.##
-### Vocabulaire :###
+## Base de données : Stockage des données, relations logiques.
+### Vocabulaire :
   - Tables = 'entité'
   - champs = 'attributs'
   - tuple = 'ligne'...
