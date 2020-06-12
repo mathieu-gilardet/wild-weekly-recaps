@@ -22,12 +22,12 @@ Les commandes Git : rebase, merge, fetch, pull, et les pull request
 
 ### Apec
 
-Rédiger un beau cv via des plateformes cvdesigner / canva
-Faire un profil Apec (130 mots pour l’accroche, 300 mots pour le projet perso
+- Rédiger un beau cv via des plateformes cvdesigner / canva
+- Faire un profil Apec (130 mots pour l’accroche, 300 mots pour le projet perso
 re-Publier son cv toutes les semaines pour remonter en tête de liste
-Le titre de l’annonce est le même que celui du cv
-Phrase d’accroche dans le cv
-pas de jauge!
+- Le titre de l’annonce est le même que celui du cv
+- Phrase d’accroche dans le cv
+- Pas de jauge!
 
 ### Projet
 	
