@@ -1,9 +1,9 @@
-#RECAP SEMAINE 8
+# RECAP SEMAINE 8
 
-##Les méthodes AGILES :
+## Les méthodes AGILES :
 
 Les méthodes agiles sont des groupes de pratiques de pilotage et de réalisation de projets.
-###Quatre valeurs fondamentales :
+### Quatre valeurs fondamentales :
 Les Individus et leurs interactions plus que les processus et les outils ;
 Des logiciels opérationnels plus qu'une documentation exhaustive ;
 La collaboration avec les clients plus que la négociation contractuelle ;
@@ -24,11 +24,11 @@ Douze principes généraux :
 11. Les meilleures architectures, spécifications et conceptions émergent d'équipes auto-organisées 
 12. À intervalles réguliers, l'équipe réfléchit aux moyens de devenir plus efficace, puis règle et modifie son comportement en conséquence.
 
-###Le SCRUM :
+### Le SCRUM :
 Scrum est un framework ou cadre de développement de produits logiciels complexes. Il est défini par ses créateurs comme un « cadre de travail holistique itératif qui se concentre sur les buts communs en livrant de manière productive et créative des produits de la plus grande valeur possible ». 
 
 
-###Raspberry Pi 4 modèle B - 8GB :
+### Raspberry Pi 4 modèle B - 8GB :
 
 Avec ses 8GB de mémoire, le Raspberry PI4 8GB est le plus puissant des PI4 et conserve des capacités exceptionnelles par rapport aux Pi3 et Pi3 modèle B+.
 Il offre une augmentation sans précédent de la vitesse du processeur, des performances multimédia, de la mémoire et de la connectivité par rapport à la génération précédente du Raspberry Pi 3 Modèle B +, tout en maintenant la compatibilité avec les versions antérieures et une consommation électrique similaire. De plus, grâce à une révision 1.3, le Raspberry Pi 4 8GB peut supporter une mémoire plus importante.
