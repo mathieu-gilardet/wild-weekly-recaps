@@ -1,0 +1,26 @@
+Recap S7
+Emmanuelle - Sylène - Jean-Loup - Xabi
+
+
+Cours:
+
+Les méthodes agiles: découverte et apprentissage de la façon de travailler “Agile”: beaucoup de communications, de petites avancées pour ne pas se perdre dans un code trop complexe à modifier plus tard. 
+Le Scrum master, le “chef” du groupe de développeur s’occupe de la communication avec le Product Master, qui représente le client et ses besoins. Le poste de Scrum master peut être volant, cad changer de personnes en cas de besoin. Le Product master reste en général le même pendant le développement d’un projet.
+
+Raspberry Pi 4 Model B : présentation du mini-PC et des possibilités d’utilisation. Où comment un projet universitaire arrive à ré-enflammer la passion de la programmation informatique. 
+
+Atelier : 
+
+SCRUM : Product Backlog: où comment gérer l’historique de l’avancée d’un projet
+
+Projet : Follow The Market
+
+Mise en place et prise en main des outils et des méthodes de développement : Github, VS Code, GDrive, création d’un channel discord,... 
+MapBox : lecture de la documentation technique
+Création de la landing page : formulaire de saisie d’une adresse ou d’une coordonnées de GPS, d’un zoom et d’un style de carte
+Création d’une page affichant une carte fournie par Mapbox en réponse aux paramètres saisis dans le formulaire
+Suivi de projet : création d’un channel Slack avec les clients, Sprint review, réunion hebdomadaire avec le client
+
+
+
+Interrogation: il y a un “d” ou deux “d” dans adress ? :)

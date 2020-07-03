@@ -1,0 +1,58 @@
+# Weekly 7
+
+Stack Team - Perrine, Jérôme, Valentin
+
+## AGILE
+
+### Présentation
+
+Les  **méthodes agiles**  sont des groupes de pratiques de pilotage et de réalisation de projets. Elles ont pour origine le manifeste Agile, rédigé en 2001, qui consacre le terme d'« agile » pour référencer de multiples méthodes existantes.
+
+Les méthodes agiles se veulent plus pragmatiques que les méthodes traditionnelles, impliquent au maximum le demandeur (client) et permettent une grande réactivité à ses demandes. Elles reposent sur un  cycle de développement  itératif, incrémental et adaptatif et doivent respecter quatre valeurs fondamentales déclinées en douze principes desquels découlent une base de pratiques, soit communes, soit complémentaires.
+
+### Douze principes
+
+1.  La plus haute priorité est de satisfaire le client en livrant rapidement et régulièrement des fonctionnalités à grande valeur ajoutée ;
+2.  Accueillir positivement les changements de besoins, même tard dans le projet. Les processus Agiles exploitent le changement pour donner un avantage compétitif au client ;
+3.  Livrer fréquemment un logiciel opérationnel avec des cycles de quelques semaines à quelques mois et une préférence pour les plus courts ;
+4.  Les utilisateurs ou leurs représentants et les développeurs doivent travailler ensemble quotidiennement tout au long du projet ;
+5.  Réaliser les projets avec des personnes motivées. Leur fournir l’environnement et le soutien dont ils ont besoin et leur faire confiance pour atteindre les objectifs fixés ;
+6.  La méthode la plus simple et la plus efficace pour transmettre de l’information à l'équipe de développement et à l’intérieur de celle-ci est le dialogue en face à face ;
+7.  Un logiciel opérationnel est la principale mesure d’avancement ;
+8.  Les processus Agiles encouragent un rythme de développement soutenable. Ensemble, les commanditaires, les développeurs et les utilisateurs devraient être capables de maintenir indéfiniment un rythme constant ;
+9.  Une attention continue à l'excellence technique et à une bonne conception renforce l’Agilité ;
+10.  La simplicité – c’est-à-dire l’art de minimiser la quantité de travail inutile – est essentielle ;
+11.  Les meilleures architectures, spécifications et conceptions émergent d'équipes auto-organisées ;
+12.  À intervalles réguliers, l'équipe réfléchit aux moyens de devenir plus efficace, puis règle et modifie son comportement en conséquence.
+
+### Quatre valeurs
+
+-   **Les Individus et leurs interactions**  plus que les processus et les outils ;
+-   **Des logiciels opérationnels**  plus qu'une documentation exhaustive ;
+-   **La collaboration avec les clients**  plus que la négociation contractuelle ;
+-   **L'adaptation au changement**  plus que le suivi d'un plan.
+
+
+### SCRUM
+
+Scrum est un processus empirique qui s'appuie sur trois piliers : la transparence, l'inspection et l'adaptation. Il suit également les principes de la culture agile. Scrum met l'accent sur le fait d'avoir un langage commun entre tous les acteurs liés au produit. Ce langage commun doit permettre à tout observateur d'obtenir rapidement une bonne compréhension du projet et de son état d'avancement. À intervalles réguliers, Scrum propose de faire le point sur les différents artéfacts produits, afin de détecter toute variation indésirable. Si une dérive est constatée pendant l'inspection, le processus doit alors être adapté. Scrum fournit des « événements », durant lesquels cette adaptation est possible. Il s'agit de la réunion de planification de  _sprint_, de la mêlée quotidienne, de la revue de  _sprint_  ainsi que de la rétrospective du  _sprint_.
+
+
+## Raspberry PI
+
+Le  **Raspberry Pi**  est un  nano-ordinateur  monocarte  à  processeur ARM  conçu par des professeurs du département informatique de l'université de Cambridge dans le cadre de la  fondation Raspberry Pi 3.
+
+Cet ordinateur, de la taille d'une carte de crédit, est destiné à encourager l'apprentissage de la programmation informatique ; il permet l'exécution de plusieurs variantes du système d'exploitation  libre GNU/Linux, notamment  Debian, et des logiciels compatibles. Mais il fonctionne également avec le système d'exploitation Microsoft Windows : Windows 10 IoT Core 4, celui de Google  Android  Pi 5  et même une version de l'OS/MVT d'IBM accompagnée du système APL\360
+
+[Il est fourni nu, c'est-à-dire la carte mère  seule, sans boîtier, alimentation, clavier, souris ni écran, dans l'objectif de diminuer les coûts et de permettre l'utilisation de matériel de récupération. Néanmoins des « kits » regroupant le « tout en un » sont disponibles sur le web à partir de quelques dizaines d'euros seulement.
+
+## Projet
+
+Phase d'initialisation du projet :
+
+-	 Rendez-vous client,
+-	Modélisation des données,
+-	Mise en place du workflow,
+-	Initialiser le projet avec Spring / Maven,
+-	Mise en place de Spring Security (connexion admin).
+
