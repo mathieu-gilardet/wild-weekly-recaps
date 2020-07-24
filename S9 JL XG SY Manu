@@ -1,0 +1,26 @@
+Recap S9 :
+
+Emmanuelle - Sylène - Jean-Loup - Xabi
+
+Semaine particulière coupée avec le 14 Juillet
+
+Cours : 
+
+TDD : Développement Piloté par les Tests :
+
+ Le bon workflow : 
+concentré sur le comportement : nouvelle fonctionnalité -> définir le comportement
+tests solides -> découper en n méthodes + écrire un test minimal du comportement complet
+intégration de nouveaux membres -> bons tests = bonne compréhension du code
+
+
+Live Coding : 
+
+API REST : référence circulaire ManyToMany
+
+Projet :
+
+Poursuite du projet.
+Début de mise en place de l’hébergement chez AWS
+Mise en forme des polygones
+Sauvegarde d’une configuration des paramètres sur la bdd
